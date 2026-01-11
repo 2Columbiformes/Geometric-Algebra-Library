@@ -1,2 +1,2 @@
 # Geometric-Algebra-Library
-Symbolic and Numeric libraries for Clifford algebra
+This is a tiny symbolic and numeric library for Clifford algebra in C# using MathNet.Symbolics for the symbolic expressions. 
